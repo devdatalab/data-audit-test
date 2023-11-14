@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "data-audit-test"
+  site-url: "https://devdatalab.github.io/data-audit-test"
+  description: "Testing out nbdev for DDL."
+  repo-branch: main
+  repo-url: "https://github.com/devdatalab/data-audit-test"
